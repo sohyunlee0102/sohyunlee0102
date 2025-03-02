@@ -7,7 +7,6 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> To be a Backend Developer </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> I'm majoring in software since 2021. </div> 
     </div>
-
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white">
@@ -32,9 +31,6 @@
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
           <br/><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
-          <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white">
-          <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=AmazonRDS&logoColor=white">
-          <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=Terraform&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;">
@@ -51,7 +47,7 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohyunlee0102&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
            /> </div> 
     </div>
-
+    
 ### 🏅 Solved.ac Tier  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsh0102)](https://solved.ac/lsh0102)
