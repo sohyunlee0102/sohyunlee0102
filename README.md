@@ -7,6 +7,8 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> To be a Backend Developer </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> I'm majoring in software since 2021. </div> 
     </div>
+    [![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={lsh0102})](https://solved.ac/{lsh0102})
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white">
@@ -32,6 +34,8 @@
           <br/><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
           <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat-square&logo=Spring Boot&logoColor=white">
+          <img src="https://img.shields.io/badge/amazonrds-527FFF?style=flat-square&logo=Spring Boot&logoColor=white">
+          <img src="https://img.shields.io/badge/terraform-844FBA?style=flat-square&logo=Spring Boot&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;">
