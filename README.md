@@ -53,7 +53,8 @@
     </div>
 
 ### 🏅 Solved.ac Tier  
-![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=lsh0102)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsh0102)](https://solved.ac/lsh0102)
     
 <!--
 **sohyunlee0102/sohyunlee0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
