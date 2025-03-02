@@ -52,7 +52,7 @@
            /> </div> 
     </div>
 
-    ### 🏅 Solved.ac Tier  
+### 🏅 Solved.ac Tier  
 ![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=lsh0102)
     
 <!--
