@@ -1,4 +1,4 @@
-## Hi there 👋
+## Thank you for visiting my github page✨
 
 <!--
 **sohyunlee0102/sohyunlee0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
